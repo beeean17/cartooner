@@ -32,8 +32,8 @@ python main.py input.jpg
     <td align="center"><b>결과 이미지</b></td>
   </tr>
   <tr>
-    <td><img src="image_4.jpg" width="360" alt="good input"></td>
-    <td><img src="image_4_cartoon.jpg" width="360" alt="good output"></td>
+    <td><img src="image_3.jpg" width="360" alt="good input"></td>
+    <td><img src="image_3_cartoon.jpg" width="360" alt="good output"></td>
   </tr>
 </table>
 
@@ -52,8 +52,8 @@ python main.py input.jpg
     <td align="center"><b>결과 이미지</b></td>
   </tr>
   <tr>
-    <td><img src="image_3.jpg" width="360" alt="bad input"></td>
-    <td><img src="image_3_cartoon.jpg" width="360" alt="bad output"></td>
+    <td><img src="image_4.jpg" width="360" alt="bad input"></td>
+    <td><img src="image_4_cartoon.jpg" width="360" alt="bad output"></td>
   </tr>
 </table>
 
